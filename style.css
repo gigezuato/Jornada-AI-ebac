@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
